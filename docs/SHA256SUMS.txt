@@ -1,0 +1,5 @@
+6c3c75368cdad45cb5162f638e1b38f728ba14bce65c46304fca7a43d69eb20e  /home/ubuntu/dg8245v10_ui_video_match/Cuscss/english/PTVDF/frame.css
+5a5df7e59ea73a72eb2710d9cbed1779425b95c2d3ebd0388fef21c7006adedb  /home/ubuntu/dg8245v10_ui_video_match/Cuscss/english/PTVDF/index.css
+75f0431d8c181ab224c880cac0e163157887af70693ca23fefc1b6d20daae841  /home/ubuntu/dg8245v10_ui_video_match/Cuscss/english/PTVDF/login.css
+efda156e558b69a983ebca9df741113430ab8b83523994cd7dab6d6409b46ed3  /home/ubuntu/dg8245v10_ui_video_match/Cuscss/english/PTVDF/mainpage.css
+8a5f5f391049b08ab93d4ecd2d2e9b8a2112234854c64b01e3f4bfb878cff2bc  /home/ubuntu/dg8245v10_ui_video_match/login.asp
